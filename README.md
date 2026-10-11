@@ -1,5 +1,3 @@
-# Awesome-Center-Of-Excellence-Management
-
 # Awesome-Center-Of-Excellence-Management 🏛️ 🎯
 
 <p align="center">
