@@ -26,28 +26,25 @@
 
 ---
 
-### 📌 Overview & SEO Summary
-Welcome to the ultimate curated directory of **Center of Excellence management platforms**, **open-source PPM frameworks**, and **governance orchestration tools**. Whether you are looking for enterprise-grade commercial solutions (such as *Planview*, *ServiceNow SPM*, and *Celonis*), or self-hostable open-source alternatives (like *OpenProject*, *Leantime*, and *LibrePlan*), this list covers category leaders, portfolio alignment, and privacy-respecting CoE governance.
+### 📌 Overview & SEO Summary 🔍
 
-**Key Market Context:**
-- **PegaWorld 2025 highlighted how leading COEs** drive continuous innovation by enabling business architects and lead system architects to translate business needs into functional designs, then hand off to configuration teams for scalable builds [citation:1].
-- **Red Hat's CoE for Ansible** formalizes automation standards, defines key roles (product owners, architects, engineers, platform engineers, security stakeholders), and establishes governance through Git-based repositories, Ansible Lint, and shared CI/CD pipelines [citation:2].
-- **OpenProject is the leading open-source PPM platform** — trusted by enterprises, public institutions, and regulated industries for project and portfolio management, Gantt charts, agile boards, and data sovereignty [citation:12].
-- **Leantime takes a strategy-first approach** — embedding OKRs directly into the project lifecycle, linking milestones to strategic pillars, and scoring projects on an effort-vs-impact matrix [citation:3].
-- **LibrePlan 1.6.0** (released May 2026) adds **issue and risk log management, project document repositories, project pipeline overview, and expanded email notifications** — specifically designed for public-sector governance and digital sovereignty [citation:4].
-- **Odoo Community's Project module** integrates PPM with ERP financial data — cost tracking, billing, and profitability dashboards — eliminating the disconnect between portfolio decisions and financial reality [citation:3].
-- **The Essential Open Source EA Tool** provides ~80 out-of-the-box reports for Application Portfolio Management, while **Archi** (the official ArchiMate implementation) excels at individual application modeling with Git-based collaboration [citation:13].
-- **MyGGI (OSPO Alliance)** provides a push-button GitLab infrastructure for establishing an Open Source Program Office — a specialized CoE — in 10 minutes using Gitea/GitLab issues as activity tracking [citation:10].
-- **Innersource patterns** offer an alternative to bottleneck-prone CoEs: default to internal repository visibility, use CODEOWNERS for required reviewers, and accept contributions from anywhere in the company through pull requests [citation:18].
+Welcome to the definitive curated directory of **Center of Excellence (CoE) management platforms**, **enterprise Project Portfolio Management (PPM) suites**, **PMO governance orchestration frameworks**, and **open-source work tracking tools**. Whether evaluating multi-national SaaS platforms (*Broadcom Clarity*, *SAP LeanIX*, *Salesforce CoE*, *ServiceNow SPM*, *Celonis*, *Planview*) or deploying self-hosted, privacy-respecting open-source solutions (*AppFlowy*, *Plane*, *Odoo*, *Focalboard*, *OpenProject*, *Leantime*, *LibrePlan*), this guide provides clear comparative data on pricing, free tiers, team governance, OKR alignment, and enterprise IT portfolio agility.
+
+**Key Market Insights & Architecture Highlights:** 💡
+- 🏛️ **Continuous CoE Evolution:** Modern enterprise CoEs empower enterprise architects and PMO leaders to translate high-level corporate OKRs into agile sprints and operational milestones across cross-functional squads.
+- ⚙️ **Process Intelligence & Conformance:** Leading enterprises pair automated process mining (*Celonis*, *PM4Py*) with PPM to uncover operational bottlenecks and streamline project intake workflows.
+- 🔓 **Data Sovereignty & Self-Hosted Agility:** Open-source platforms (*OpenProject*, *Plane*, *AppFlowy*, *LibrePlan*) are surging as alternatives to bloated subscription models, providing on-premise compliance with GDPR and strict data sovereignty requirements.
+- 🎯 **Strategy-to-Execution Cascading:** Modern tools (*Leantime*, *ServiceNow SPM*) connect strategic business pillars directly to work breakdown structures and effort-versus-impact scoring matrices.
+- 🏢 **Collaborative Innersource Patterns:** Progressive organizations leverage inner-source governance patterns to turn central CoEs from bureaucratic bottlenecks into self-service enablers.
 
 ---
 
-## 📑 Table of Contents
+## 📑 Table of Contents 🧭
 - [🏢 SaaS & Commercial Platforms](#-saas--commercial-platforms)
 - [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
-- [🛠️ How to Contribute](#%EF%B8%8F-how-to-contribute)
+- [🛠️ How to Contribute](#%EF%B8%8F-how-to-contribute-)
+- [🤝 Support & Sponsorship](#-support--sponsorship-)
 - [📊 Star History](#-star-history)
-- [🤝 Support & Sponsorship](#-support--sponsorship)
 - [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
 
 ---
@@ -74,42 +71,51 @@ Welcome to the ultimate curated directory of **Center of Excellence management p
 
 *Sorted by GitHub_Stars_Count (Descending)* 🌟
 
-- **[OpenProject](https://github.com/opf/openproject)** [![Stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)  
-  **The leading open-source project management software**, GPL-3.0 licensed. **Trusted by enterprises, public institutions, and highly regulated industries** . **Project and portfolio management, agile boards (Kanban, Scrum, SAFe), Gantt charts, product and release planning, time tracking, cost reporting, budgeting, bug tracking, wikis, forums, and meeting management** . **Integrations with Nextcloud, XWiki, GitHub, and GitLab** . **Community Edition free forever; Enterprise from €5.95/user/month** . **The most complete open-source PPM alternative to Jira and MS Project** . 🏛️
+- **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
+  **Open-source, privacy-first workspace and knowledge governance**, AGPL-3.0 licensed. **Comprehensive alternative to Notion and Confluence** for building self-hosted Center of Excellence knowledge bases, SOP documentation hubs, process boards, and portfolio wikis with total data sovereignty. 📘 🏛️
 
-- **[Redmine](https://github.com/redmine/redmine)** [![Stars](https://img.shields.io/github/stars/redmine/redmine?style=social&color=white)](https://github.com/redmine/redmine/stargazers)  
-  **Flexible project management web application**, GPL-2.0 licensed. **Unlimited customizability via plugins and Ruby on Rails** . **Ticket and Gantt views across projects** . **100% free and open source** . **The original open-source project management tool** . 📋
-
-- **[Taiga](https://github.com/kaleidos-ventures/taiga)** [![Stars](https://img.shields.io/github/stars/kaleidos-ventures/taiga?style=social&color=white)](https://github.com/kaleidos-ventures/taiga/stargazers)  
-  **Agile project management for multi-team portfolios**, AGPL-3.0 licensed. **Scrum and Kanban support across projects** . **Cross-project Epic Board and Swimlane views** . **Self-hosted or Taiga Cloud from $19/month** . **The most agile-focused open-source PPM** . 🎯
-
-- **[Leantime](https://github.com/Leantime/leantime)** [![Stars](https://img.shields.io/github/stars/Leantime/leantime?style=social&color=white)](https://github.com/Leantime/leantime/stargazers)  
-  **Strategy-first open-source PPM**, AGPL-3.0 licensed. **Starts with goals and links projects to strategic outcomes** . **Goal cascading, milestone tracking, and portfolio dashboard showing alignment against strategic pillars** . **Goal Matrix scores projects on effort vs impact** . **Built-in timeboxing and milestone dashboards prevent overcommitment** . **Community edition free for unlimited users; Pro from $4/user/month** . **The most strategy-aligned open-source PPM** . 🎯
+- **[Plane](https://github.com/makeplane/plane)** [![Stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)  
+  **Modern open-source software development and portfolio tracking platform**, AGPL-3.0 licensed. **Enterprise-grade alternative to Jira and Linear** featuring multi-project roadmaps, issue cycles, analytics, module breakdowns, and cross-team PMO synchronization. 🚀 🎯
 
 - **[Odoo Community (Project module)](https://github.com/odoo/odoo)** [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
-  **Integrated PPM with ERP financial data**, LGPL-3.0 licensed. **Kanban boards, Gantt charts, timesheets, and multi-project dashboard** . **Financial integration with Odoo Accounting and HR** — planned vs actual hours, costs from timesheets, and invoices generated . **Real-time profitability per client** . **Free and open source; Enterprise from $31.10/user/month** . **Best for organizations needing PPM unified with ERP** . 🏢
+  **Integrated PPM with ERP financial data**, LGPL-3.0 licensed. **Kanban boards, Gantt charts, timesheets, and multi-project dashboard** . **Financial integration with Odoo Accounting and HR** — planned vs actual hours, costs from timesheets, and invoices generated . **Real-time profitability per client** . **Free and open source; Enterprise from $31.10/user/month** . **Best for organizations needing PPM unified with ERP** . 🏢 💼
 
-- **[LibrePlan](https://github.com/LibrePlan/libreplan)** [![Stars](https://img.shields.io/github/stars/LibrePlan/libreplan?style=social&color=white)](https://github.com/LibrePlan/libreplan/stargazers)  
-  **Self-hosted project governance for public sector and digital sovereignty**, AGPL-3.0 licensed. **Used internationally since 2009** . **Project and portfolio planning, resource allocation and capacity management, issue and risk tracking, governance and transparency, milestone and deadline monitoring, multi-user collaboration, and auditability** . **Version 1.6.0 (May 2026) adds issue and risk log management, project document repositories, project pipeline overview, project status indicators, and expanded email notifications** . **Container images on Docker Hub** . **Community Edition free; Enterprise subscription for professional production** . **The most governance-focused open-source PPM** . 🏛️
+- **[Focalboard](https://github.com/mattermost-community/focalboard)** [![Stars](https://img.shields.io/github/stars/mattermost-community/focalboard?style=social&color=white)](https://github.com/mattermost-community/focalboard/stargazers)  
+  **Self-hosted multilingual project management & team coordination board**, AGPL-3.0 licensed. **Directly embeds into Mattermost or runs standalone** to manage cross-functional CoE deliverable pipelines, project cards, table/calendar views, and milestone cadences. 📋 📌
 
-- **[Orangescrum Community Edition](https://github.com/Orangescrum/orangescrum)** [![Stars](https://img.shields.io/github/stars/Orangescrum/orangescrum?style=social&color=white)](https://github.com/Orangescrum/orangescrum/stargazers)  
-  **Service-oriented PPM for client project portfolios**, AGPL-3.0 licensed. **Invoicing and resource availability dashboards** . **Self-hosted Community Edition free; Cloud from $9/month** . **Best for service teams managing client portfolios** . 📊
+- **[OpenProject](https://github.com/opf/openproject)** [![Stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)  
+  **The leading open-source project and portfolio management software**, GPL-3.0 licensed. **Trusted by enterprises, public institutions, and highly regulated industries** . **Project and portfolio management, agile boards (Kanban, Scrum, SAFe), Gantt charts, product and release planning, time tracking, cost reporting, budgeting, bug tracking, wikis, forums, and meeting management** . **Integrations with Nextcloud, XWiki, GitHub, and GitLab** . **Community Edition free forever; Enterprise from €5.95/user/month** . **The most complete open-source PPM alternative to Jira and MS Project** . 🏛️ 📊
+
+- **[Leantime](https://github.com/Leantime/leantime)** [![Stars](https://img.shields.io/github/stars/Leantime/leantime?style=social&color=white)](https://github.com/Leantime/leantime/stargazers)  
+  **Strategy-first open-source PPM**, AGPL-3.0 licensed. **Starts with goals and links projects to strategic outcomes** . **Goal cascading, milestone tracking, and portfolio dashboard showing alignment against strategic pillars** . **Goal Matrix scores projects on effort vs impact** . **Built-in timeboxing and milestone dashboards prevent overcommitment** . **Community edition free for unlimited users; Pro from $4/user/month** . **The most strategy-aligned open-source PPM** . 🎯 💡
+
+- **[Redmine](https://github.com/redmine/redmine)** [![Stars](https://img.shields.io/github/stars/redmine/redmine?style=social&color=white)](https://github.com/redmine/redmine/stargazers)  
+  **Flexible project management web application**, GPL-2.0 licensed. **Unlimited customizability via plugins and Ruby on Rails** . **Ticket and Gantt views across projects** . **100% free and open source** . **The original battle-tested open-source project management tool** . 📋 🛠️
+
+- **[Vikunja](https://github.com/go-vikunja/vikunja)** [![Stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=social&color=white)](https://github.com/go-vikunja/vikunja/stargazers)  
+  **Self-hostable, end-to-end to-do and project organization platform**, AGPL-3.0 licensed. **Built with Go and Vue** featuring kanban boards, Gantt timelines, table overviews, subtasks, task relationships, and cross-team sharing for agile PMO execution squads. ⏱️ 📈
 
 - **[Archi](https://github.com/archimatetool/archi)** [![Stars](https://img.shields.io/github/stars/archimatetool/archi?style=social&color=white)](https://github.com/archimatetool/archi/stargazers)  
-  **Official ArchiMate implementation from The Open Group**, open-source. **The preferred tool for software architects and developers** . **Stores information in small-grain files on local file system** . **Git repository integration for collaboration** . **Lacking reporting and dashboarding** — all models on separate graphical canvas . **Jasper-based reporting for custom report generation** . **Best for individual application modeling and ArchiMate diagrams** . 🏗️
+  **Official ArchiMate implementation from The Open Group**, open-source. **The preferred tool for software architects and developers** . **Stores information in small-grain files on local file system** . **Git repository integration for collaboration** . **Lacking reporting and dashboarding** — all models on separate graphical canvas . **Jasper-based reporting for custom report generation** . **Best for individual application modeling and ArchiMate diagrams** . 🏗️ 📐
 
-- **[Essential Open Source EA Tool](https://github.com/Enterprise-Architecture/essential)** [![Stars](https://img.shields.io/github/stars/Enterprise-Architecture/essential?style=social&color=white)](https://github.com/Enterprise-Architecture/essential/stargazers)  
-  **Application Portfolio Management and EA reporting**, open-source. **~80 out-of-the-box reports** for Application Portfolios, geographical distribution, and technology spread . **Reports can be combined to Dashboards for different audiences** . **Data maintenance via batch uploads and ontology editor (Protegé)** . **Data entry requires intensive training and understanding of the underlying meta model** . **Best for portfolio-based approaches and executive reporting** . 📊
+- **[PM4Py](https://github.com/process-intelligence-solutions/pm4py)** [![Stars](https://img.shields.io/github/stars/process-intelligence-solutions/pm4py?style=social&color=white)](https://github.com/process-intelligence-solutions/pm4py/stargazers)  
+  **Python open-source process mining library**, GPL-3.0 licensed. **Comprehensive framework for process discovery, conformance checking, and operational bottleneck evaluation** — the essential open-source counterpart to Celonis for CoE process intelligence and audit verification. 🔬 ⚙️
 
-- **[TOTeM Tool](https://github.com/...)** [![Stars](https://img.shields.io/github/stars/...?style=social&color=white)](https://github.com/.../stargazers)  
-  **Object-centric process mining in Python**, open-source. **OCEL 2.0 import, TOTeM (Temporal Object Type Model) discovery and conformance checking, process areas, object-centric directly-follows graphs (OC-DFG), object-centric Petri nets (OCPN), and object-centric causal nets (OCCN)** . **The analysis core of the TOTeM Tool — no web or UI dependencies** . **Requires Python 3.10+, Graphviz for visualization** . **The most rigorous open-source process mining library for CoE process analysis** . 🔬
+- **[Taiga](https://github.com/kaleidos-ventures/taiga)** [![Stars](https://img.shields.io/github/stars/kaleidos-ventures/taiga?style=social&color=white)](https://github.com/kaleidos-ventures/taiga/stargazers)  
+  **Agile project management for multi-team portfolios**, AGPL-3.0 licensed. **Scrum and Kanban support across projects** . **Cross-project Epic Board and Swimlane views** . **Self-hosted or Taiga Cloud from $19/month** . **The most agile-focused open-source PPM** . 🎯 🏃
 
-- **[MyGGI (OSPO Alliance)](https://github.com/OSPO-Alliance/MyGGI)** [![Stars](https://img.shields.io/github/stars/OSPO-Alliance/MyGGI?style=social&color=white)](https://github.com/OSPO-Alliance/MyGGI/stargazers)  
-  **Push-button Open Source Program Office infrastructure**, open-source. **Deploys the Good Governance Initiative Handbook on GitLab in 10 minutes** . **25 activities modeled as GitLab issues with scorecards for assessment** . **Agile-like sprints for progressing through open source best practices** . **The definitive open-source CoE for open source program offices** . 🏢
+- **[LibrePlan](https://github.com/LibrePlan/libreplan)** [![Stars](https://img.shields.io/github/stars/LibrePlan/libreplan?style=social&color=white)](https://github.com/LibrePlan/libreplan/stargazers)  
+  **Self-hosted project governance for public sector and digital sovereignty**, AGPL-3.0 licensed. **Used internationally since 2009** . **Project and portfolio planning, resource allocation and capacity management, issue and risk tracking, governance and transparency, milestone and deadline monitoring, multi-user collaboration, and auditability** . **Version 1.6.0 adds issue and risk log management, project document repositories, project pipeline overview, project status indicators, and expanded notifications** . **The most governance-focused open-source PPM** . 🏛️ 🇪🇺
+
+- **[Orangescrum Community Edition](https://github.com/Orangescrum/opensource-community-edition)** [![Stars](https://img.shields.io/github/stars/Orangescrum/opensource-community-edition?style=social&color=white)](https://github.com/Orangescrum/opensource-community-edition/stargazers)  
+  **Service-oriented PPM for client project portfolios**, AGPL-3.0 licensed. **Invoicing and resource availability dashboards** . **Self-hosted Community Edition free; Cloud from $9/month** . **Best for service teams managing client portfolios** . 📊 💼
+
+- **[MyGGI Board (OSPO Alliance)](https://github.com/ospo-alliance/my-ggi-board)** [![Stars](https://img.shields.io/github/stars/ospo-alliance/my-ggi-board?style=social&color=white)](https://github.com/ospo-alliance/my-ggi-board/stargazers)  
+  **Push-button Open Source Program Office governance infrastructure**, open-source. **Deploys the Good Governance Initiative Handbook in minutes** . **25 activities modeled with scorecards for maturity assessment** . **Agile-like sprints for progressing through open source best practices** . **The definitive open-source CoE framework for open source program offices** . 🏢 🌐
 
 ---
 
-## 🛠️ How to Contribute
+## 🛠️ How to Contribute 🤝
 
 Contributions are welcome! Follow these steps to submit new CoE management platforms or open-source governance software:
 
@@ -120,19 +126,18 @@ Contributions are welcome! Follow these steps to submit new CoE management platf
 
 ---
 
-## 📊 Star History
+## 🤝 Support & Sponsorship 💖
 
-[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Center-Of-Excellence-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Center-Of-Excellence-Management&type=date&legend=top-left)
+Thank you so much for exploring and using this Center of Excellence management repository! If you find this curated collection helpful for your PMO, portfolio management, or governance initiatives, please consider supporting the project:
+
+- ⭐ **Star this repository** to increase visibility and help others discover it!
+- 🔀 **Fork & Share** with fellow engineering directors, PMO leaders, portfolio managers, and open-source advocates.
+- ☕ **Buy Me a Coffee / Sponsor**: Support ongoing maintenance and open-source curation via the [GitHub Sponsor Dashboard (https://github.com/sponsors/ishandutta2007)](https://github.com/sponsors/ishandutta2007).
 
 ---
 
-## 🤝 Support & Sponsorship
-
-If you find this Center of Excellence management repository useful, please consider supporting the project:
-
-- ⭐ **Star** this repository to increase visibility!
-- 🔀 **Fork** and share with fellow PMO leaders, portfolio managers, and open-source advocates.
-- ☕ **Sponsor & Buy Me a Coffee**: Support ongoing open-source curation via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+##  Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Center-Of-Excellence-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Center-Of-Excellence-Management&type=date&legend=top-left)
 
 ---
 
